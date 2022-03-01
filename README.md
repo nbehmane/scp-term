@@ -1,2 +1,5 @@
-# scp-term
-An interactive SCP terminal program for Linux
+# SCP Terminal
+An interactive SCP terminal program for Linux.
+
+# Installation
+- To be announced
